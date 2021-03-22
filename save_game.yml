@@ -1,0 +1,5 @@
+---
+guess: save #It has occured to me that this does nothing but I find it humorous and have left it.
+secret_word: hangman
+word_teaser: h _ _ g _ a _
+lives: 6
